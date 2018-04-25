@@ -24,9 +24,6 @@
     <ClInclude Include="tANS.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="log.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
